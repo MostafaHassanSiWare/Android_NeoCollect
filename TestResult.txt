@@ -1,0 +1,137 @@
+Connect to Scanner Case Result is : Pass. 
+Collect Case Result is : Pass. 
+Sync Case Result is : Pass. 
+Connect to Scanner Case Result is : Pass. 
+Collect Case Result is : Pass. 
+Full Sync Case Result is : Fail. 
+Connect to Scanner Case Result is : Pass. 
+Collect Case Result is : Pass. 
+Full Sync Case Result is : Fail. 
+Full Sync Case Result is : Fail. 
+Connect to Scanner Case Result is : Pass. 
+Collect Case Result is : Pass. 
+Full Sync Case Result is : Fail. 
+Full Sync Case Result is : Fail. 
+Connect to Scanner Case Result is : Pass. 
+Collect Case Result is : Pass. 
+Full Sync Case Result is : Fail. 
+Connect to Scanner Case Result is : Pass. 
+Collect Case Result is : Pass. 
+Full Sync Case Result is : Fail. 
+Connect to Scanner Case Result is : Pass. 
+Collect Case Result is : Pass. 
+Full Sync Case Result is : Fail. 
+Log in With Valid Credentials Case Result is : Pass. 
+Connect to Scanner Case Result is : Pass. 
+Collect Case Result is : Pass. 
+Full Sync Case Result is : Fail. 
+Connect to Scanner Case Result is : Pass. 
+Collect Case Result is : Pass. 
+Full Sync Case Result is : Fail. 
+Connect to Scanner Case Result is : Pass. 
+Collect Case Result is : Pass. 
+Full Sync Case Result is : Fail. 
+Connect to Scanner Case Result is : Pass. 
+Collect Case Result is : Pass. 
+Full Sync Case Result is : Pass. 
+Connect to Scanner Case Result is : Fail. 
+Full Sync Case Result is : Fail. 
+Connect to Scanner Case Result is : Pass. 
+Collect Case Result is : Pass. 
+Full Sync Case Result is : Pass. 
+Full Sync Case Result is : Fail. 
+Connect to Scanner Case Result is : Pass. 
+Collect Case Result is : Pass. 
+Full Sync Case Result is : Pass. 
+Connect to Scanner Case Result is : Pass. 
+Collect Case Result is : Pass. 
+Full Sync Case Result is : Fail. 
+Connect to Scanner Case Result is : Pass. 
+Collect Case Result is : Pass. 
+Full Sync Case Result is : Fail. 
+Connect to Scanner Case Result is : Pass. 
+Collect Case Result is : Pass. 
+Full Sync Case Result is : Pass. 
+Connect to Scanner Case Result is : Pass. 
+Collect Case Result is : Pass. 
+Connect to Scanner Case Result is : Pass. 
+Collect Case Result is : Pass. 
+Full Sync Case Result is : Fail. 
+Connect to Scanner Case Result is : Pass. 
+Collect Case Result is : Pass. 
+Connect to Scanner Case Result is : Pass. 
+Collect Case Result is : Pass. 
+Log in With Valid Credentials Case Result is : Pass. 
+Log out Confirm Case Result is : Pass. 
+Password Field Hide Case Result is : Pass. 
+Forget Password Case Result is : Fail. 
+Log in With Valid Credentials Case Result is : Pass. 
+Log out Confirm Case Result is : Pass. 
+Log in With Valid Credentials Case Result is : Pass. 
+Log out Confirm Case Result is : Pass. 
+Log in With Valid Credentials Case Result is : Pass. 
+Log out Confirm Case Result is : Pass. 
+Log in With Valid Credentials Case Result is : Pass. 
+Password Field Hide Case Result is : Pass. 
+Password Field Show Case Result is : Pass. 
+Empty Fields Case Result is : Fail. 
+Log in With no Password Case Result is : Fail. 
+Log in With Valid Credentials Case Result is : Pass. 
+Home to Collect Case Result is : Pass. 
+Collect To Home Case Result is : Pass. 
+Home To Spectra Case Result is : Pass. 
+Spectra To Home Case Result is : Pass. 
+Home To Settings Case Result is : Pass. 
+Settings To Home Case Result is : Pass. 
+Spectra To Groups And Results Case Result is : Pass. 
+Connect to Scanner Case Result is : Pass. 
+Connect to Scanner Case Result is : Pass. 
+Connect to Scanner Case Result is : Fail. 
+Connect to Scanner Case Result is : Pass. 
+Connect to Scanner Case Result is : Pass. 
+Connect to Scanner Case Result is : Pass. 
+Connect to Scanner Case Result is : Pass. 
+Connect to Scanner Case Result is : Pass. 
+Connect to Scanner Case Result is : Pass. 
+Disconnect Scanner Case Result is : Pass. 
+Home to Collect Case Result is : Pass. 
+Collect To Home Case Result is : Pass. 
+Home To Spectra Case Result is : Pass. 
+Spectra To Home Case Result is : Pass. 
+Home To Settings Case Result is : Pass. 
+Settings To Home Case Result is : Pass. 
+Spectra To Groups And Results Case Result is : Pass. 
+Connect to Scanner Case Result is : Pass. 
+Disconnect Scanner Case Result is : Pass. 
+Connect to Scanner Case Result is : Pass. 
+Collect Case Result is : Pass. 
+Connect to Scanner Case Result is : Fail. 
+Connect to Scanner Case Result is : Pass. 
+Collect Case Result is : Pass. 
+Sync Case Result is : Pass. 
+Connect to Scanner Case Result is : Pass. 
+Collect Case Result is : Pass. 
+Sync Case Result is : Fail. 
+Connect to Scanner Case Result is : Pass. 
+Connect to Scanner Case Result is : Pass. 
+Collect Case Result is : Pass. 
+Sync Case Result is : Fail. 
+Connect to Scanner Case Result is : Pass. 
+Collect Case Result is : Pass. 
+Sync Case Result is : Fail. 
+Connect to Scanner Case Result is : Pass. 
+Collect Case Result is : Pass. 
+Sync Case Result is : Fail. 
+Disconnect Scanner Case Result is : Pass. 
+Connect to Scanner Case Result is : Pass. 
+Collect Case Result is : Pass. 
+Full Sync Case Result is : Pass. 
+Connect to Scanner Case Result is : Pass. 
+Collect Case Result is : Fail. 
+Connect to Scanner Case Result is : Pass. 
+Collect Case Result is : Pass. 
+Sync Case Result is : Pass. 
+Disconnect Scanner Case Result is : Pass. 
+Connect to Scanner Case Result is : Pass. 
+Collect Case Result is : Pass. 
+Full Sync Case Result is : Pass. 
